@@ -7,7 +7,7 @@ Este processo é repetido até que todas as folhas contenham amostras de apenas 
 
 O algoritmo de árvore de decisão usa a ideia de ganho de informação para selecionar as melhores divisões dos dados em cada nó. O ganho de informação é uma medida da incerteza da variável-alvo antes e após uma divisão específica.
 
-### Matemática por traz do algoritmos Desicion Tree
+### Matemática por trás do algoritmos Desicion Tree
 
 
 A medida de incerteza comumente usada é a entropia, que é definida como:
